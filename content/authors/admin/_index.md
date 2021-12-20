@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Vision Research Fellow
+role: Graduate Researcher
 
 # Organizations/Affiliations
 organizations:
