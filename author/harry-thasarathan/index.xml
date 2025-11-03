@@ -7,10 +7,27 @@
     <description>Harry Thasarathan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://Harry-Thasarathan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Harry-Thasarathan.github.io/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Harry Thasarathan</title>
       <link>https://Harry-Thasarathan.github.io/author/harry-thasarathan/</link>
     </image>
+    
+    <item>
+      <title>Harry Thasarathan</title>
+      <link>https://Harry-Thasarathan.github.io/author/harry-thasarathan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Harry-Thasarathan.github.io/author/harry-thasarathan/</guid>
+      <description>&lt;p&gt;I am a PhD student at York University and a member of 
+&lt;a href=&#34;https://cvil.eecs.yorku.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVIL&lt;/a&gt;, supervised by 
+&lt;a href=&#34;https://csprofkgd.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kosta Derpanis&lt;/a&gt;. My research uses vision models as a testbed for developing interpretability methods that enable both scientific understanding and practical control of neural network representations.&lt;/p&gt;
+&lt;p&gt;Previously, I completed my Master&amp;rsquo;s with Kosta Derpanis and 
+&lt;a href=&#34;https://mbrubake.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marcus Brubaker&lt;/a&gt;, where I worked on long-term 3D human pose forecasting through keyframe-based motion representations. During my undergraduate studies at Ontario Tech, I explored structured generative models for 3D human locomotion with 
+&lt;a href=&#34;http://vclab.science.uoit.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faisal Qureshi&lt;/a&gt; and 
+&lt;a href=&#34;http://db.science.uoit.ca/ken.pu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ken Pu&lt;/a&gt;, and worked on temporal coherence in GANs for video colorization and super-resolution with 
+&lt;a href=&#34;http://www.imaginglab.ca/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mehran Ebrahimi&lt;/a&gt; and 
+&lt;a href=&#34;https://knazeri.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kamyar Nazeri&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
